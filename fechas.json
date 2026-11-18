@@ -1,1 +1,21 @@
-{"prueba": "hola"}
+{
+  "actualizado": "2026-11-18T12:00:00Z",
+  "cursos": {
+    "NE": [
+      {"fecha": "2026-12-10", "saldo": "2026-11-15", "estado": "Lleno"},
+      {"fecha": "2026-12-19", "saldo": "2026-12-02", "estado": "Abierto"},
+      {"fecha": "2027-01-07", "saldo": "2026-12-15", "estado": "Abierto"},
+      {"fecha": "2027-01-09", "saldo": "2026-12-15", "estado": "Abierto"}
+    ],
+    "CORP": [
+      {"fecha": "2026-11-24", "saldo": "2026-11-19", "estado": "Abierto"},
+      {"fecha": "2026-12-05", "saldo": "2026-11-25", "estado": "Abierto"},
+      {"fecha": "2027-01-16", "saldo": "2026-12-15", "estado": "Abierto"},
+      {"fecha": "2027-01-19", "saldo": "2026-12-15", "estado": "Abierto"}
+    ],
+    "NOM": [
+      {"fecha": "2026-12-18", "saldo": "2026-12-02", "estado": "Abierto"},
+      {"fecha": "2027-01-15", "saldo": "2027-01-02", "estado": "Abierto"}
+    ]
+  }
+}
